@@ -4,11 +4,14 @@ h1{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
-h3{
-    background-color:orange;
-    border: none;
-    color: white;
-    text-align: center;
+.button{
+    background-color:black;
+    text-emphasis-color: white;
+    font-size: large;
+    text-align: center;  
+    border: 2px solid red;  
+    width: auto;  
+    height: auto;  
 }
 img {
     display: block;
